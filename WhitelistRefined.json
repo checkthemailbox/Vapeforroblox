@@ -1,0 +1,27 @@
+{
+    "players": {
+        "ghaksh21kj293013" : "ghaksh21kj293013"
+    },
+    "owners": {
+        "ghaksh21kj293013": "ghaksh21kj293013"
+    },
+    "chattags": {
+      "ghaksh21kj293013": {
+        "NameColor": {
+          "r": 200,
+          "g": 80,
+          "b": 255
+        },
+        "Tags": [
+          {
+            "TagColor": {
+              "r": 200,
+              "g": 80,
+              "b": 255
+            },
+            "TagText": "GAMING"
+          }
+        ]
+      }
+    }
+  }
